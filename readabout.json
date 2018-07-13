@@ -1,15 +1,27 @@
 
-{
-	"title":"READ ABOUT US",
-	"content": "you need to be sure there isn't anything embarrassing hidden in the middle of text.",
-	"colum":{
-		"image":["images","read-2","read-3"],
-		"h3":["BUSINESS OPPORTUNITIES","ENGAGE CUSTOMERS WITH UNIFY","EMPOWER PEOPLE, HCM"],
-		"p":["Donec id elit non mi porta gravida at eget metsit us. Fusce dapibus, justo sit amet risus etiam portapsum generators on the Internet tend to repeat predefined.",
-		     "Donec id elit non mi porta gravida at eget metsit us. Fusce dapibus, justo sit amet risus etiam portapsum generators on the Internet tend to repeat predefined.",
-                     "Donec id elit non mi porta gravida at eget metsit us. Fusce dapibus, justo sit amet risus etiam portapsum generators on the Internet tend to repeat predefined."],
-		"a":["See More","See More","See More"]
-	}
-	
-}
-
+[
+  {
+    "name": "Whiskers",
+    "species" : "cat",
+    "foods": {
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
+    }
+  },
+  {
+    "name": "Woof",
+    "species" : "dog",
+    "foods": {
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
+    }
+  },
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
+    }
+  }
+]
